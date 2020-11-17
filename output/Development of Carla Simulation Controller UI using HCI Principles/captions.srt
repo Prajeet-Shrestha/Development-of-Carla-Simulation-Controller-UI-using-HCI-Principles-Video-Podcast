@@ -1,0 +1,370 @@
+1
+00:00:00,000 --> 00:00:03,520
+Prajeet: Hello everyone,  this is Prajeet Shrestha
+back with another video where we will
+
+2
+00:00:03,520 --> 00:00:08,000
+discuss a research project that we were
+quite working on for a while now
+
+3
+00:00:08,000 --> 00:00:11,280
+now this is something that was really
+important for us not because it was a
+
+4
+00:00:11,280 --> 00:00:14,880
+semester assessment but it was something
+that we really wanted to work on
+
+5
+00:00:14,880 --> 00:00:18,960
+and be able to produce a significant
+the result I have my team members with me to
+
+6
+00:00:18,960 --> 00:00:22,640
+discuss about the project and just to
+touch on everything that we did
+
+7
+00:00:22,640 --> 00:00:26,640
+however if you want to learn more about
+the project in detail you can email me
+
+8
+00:00:26,640 --> 00:00:30,000
+to get the research paper which will be
+released after first of December
+Saahil: Thank you so much for inviting us
+
+9
+00:00:30,000 --> 00:00:33,920
+Prajeet: Welcome everyone now talking
+about the project like i said it is a
+
+10
+00:00:33,920 --> 00:00:37,600
+research-based project for developing a
+user interface from the perspective of
+
+11
+00:00:37,600 --> 00:00:42,320
+HCI for a self-driving car simulator
+now carla is an open source simulator
+
+12
+00:00:42,320 --> 00:00:46,079
+where you can Simulate and research on
+self-driving cars in this space i would
+
+13
+00:00:46,079 --> 00:00:49,920
+like to create an opportunity for us to
+discuss the journey that we do before we
+
+14
+00:00:49,920 --> 00:00:52,559
+discuss anything
+let's just understand some of the
+
+15
+00:00:52,559 --> 00:00:56,320
+objectives of the project from Aayush,
+Aayush: Thank you so much Prajeet for the lovely
+
+16
+00:00:56,320 --> 00:01:00,239
+introduction of the project I'm Aayush Kafle
+I'm here to talk about the Objectives
+
+17
+00:01:00,239 --> 00:01:03,520
+that we're trying to reach while creating
+this interface design
+
+18
+00:01:03,520 --> 00:01:07,280
+before that i would like to explain why
+we created this ui design in the first
+
+19
+00:01:07,280 --> 00:01:09,760
+place
+now in our system to do the simple
+
+20
+00:01:09,760 --> 00:01:14,320
+things inside of simulation
+we need to manually call the function
+
+21
+00:01:14,320 --> 00:01:18,080
+like when we record a simulation or
+start it it's more like cui
+
+22
+00:01:18,080 --> 00:01:21,520
+so we decided to create a smart UI to
+make our task easier
+
+23
+00:01:21,520 --> 00:01:24,640
+in terms of adding or changing things
+and simulation so that
+
+24
+00:01:24,640 --> 00:01:29,119
+programmer can focus on the actual part of the
+research now the objectives we tried to
+
+25
+00:01:29,119 --> 00:01:32,880
+reach while creating this interface was
+to create a control panel or system ui
+
+26
+00:01:32,880 --> 00:01:36,079
+for better Usability 
+To create a consistent UI that followed
+
+27
+00:01:36,079 --> 00:01:39,439
+most of the UI principles
+and to cater to the universality of the
+
+28
+00:01:39,439 --> 00:01:42,399
+user's product
+and finally we try to justify the
+
+29
+00:01:42,399 --> 00:01:44,640
+objectives and statements with the
+survey
+
+30
+00:01:44,640 --> 00:01:48,079
+where we found that 75 percent of people
+in this relevant research
+
+31
+00:01:48,079 --> 00:01:52,479
+work yeah so keeping those in mind
+during the second week
+
+32
+00:01:52,479 --> 00:01:55,759
+we created a case document and had an
+open discussion with some of our
+
+33
+00:01:55,759 --> 00:01:58,240
+colleague team
+where we found the pros and cons of the
+
+34
+00:01:58,240 --> 00:02:00,880
+project and improvised and
+pre-documented it
+
+35
+00:02:00,880 --> 00:02:03,920
+which was a huge milestone for us in
+terms of improvement
+
+36
+00:02:03,920 --> 00:02:07,600
+and once we had a proper idea and
+supporting document on our third week
+
+37
+00:02:07,600 --> 00:02:11,680
+we started working on creating a paper
+prototype the model that you see here
+
+38
+00:02:11,680 --> 00:02:15,520
+was the final prototype that we created
+with a lot of suggestions and feedback
+
+39
+00:02:15,520 --> 00:02:17,760
+from people about what they liked and
+disliked
+
+40
+00:02:17,760 --> 00:02:21,200
+you can find more about the prototype in
+our resource paper
+
+41
+00:02:21,200 --> 00:02:25,120
+as we moved on to the next week what we
+had to do was to create a ui that users
+
+42
+00:02:25,120 --> 00:02:28,640
+can interact with
+so we created a front-end interface with
+
+43
+00:02:28,640 --> 00:02:33,200
+javascript and html
+css it took us almost a week to finalize
+
+44
+00:02:33,200 --> 00:02:36,080
+the interface
+but once we completed it it was
+
+45
+00:02:36,080 --> 00:02:39,200
+something we really liked
+and loved the design of the interface
+
+46
+00:02:39,200 --> 00:02:42,560
+the ui that you are looking at
+is what we developed after working on it
+
+47
+00:02:42,560 --> 00:02:44,879
+for a week and we're quite happy about
+it
+
+48
+00:02:44,879 --> 00:02:48,800
+as we progressed on to the next phase of
+our research we invited a few of our
+
+49
+00:02:48,800 --> 00:02:51,120
+colleagues to evaluate and concern the
+design
+
+50
+00:02:51,120 --> 00:02:54,239
+and identify as many potential usability
+problems
+
+51
+00:02:54,239 --> 00:02:58,159
+as possible now this space was really
+crucial for us because
+
+52
+00:02:58,159 --> 00:03:01,599
+it would give us an external perspective
+and opportunity for improvement
+
+53
+00:03:01,599 --> 00:03:04,879
+heuristic evaluation was done based on
+jacob's nielsen
+
+54
+00:03:04,879 --> 00:03:09,360
+10 usability heuristics for finding any
+design issues associated with the user
+
+55
+00:03:09,360 --> 00:03:12,640
+interface
+so finally what we needed to find was
+
+56
+00:03:12,640 --> 00:03:15,360
+how users with different background and
+knowledge would
+
+57
+00:03:15,360 --> 00:03:19,599
+observe and react to our ui so we
+created a user persona of other type of
+
+58
+00:03:19,599 --> 00:03:22,640
+users that might use a product some of
+them were like
+
+59
+00:03:22,640 --> 00:03:26,400
+a fourth-year student researching on
+self-driving car in different weathers
+
+60
+00:03:26,400 --> 00:03:31,120
+or a graduate student trying to record
+and analyze the algorithm we conducted
+
+61
+00:03:31,120 --> 00:03:35,440
+those kinds of ethnographic  resource for
+those users who understand how a certain
+
+62
+00:03:35,440 --> 00:03:39,599
+group of customers would interact and
+observe the ui for any case we also
+
+63
+00:03:39,599 --> 00:03:42,720
+produce a detailed summarization of each
+principles
+
+64
+00:03:42,720 --> 00:03:46,720
+used and evaluated the UI based on
+Schneiderman’s 8 Golden Rules 
+
+65
+00:03:46,720 --> 00:03:50,400
+as well as Norman's 7 principles for better
+understanding of the product and
+
+66
+00:03:50,400 --> 00:03:53,680
+improvising it
+and now what we needed to do was to see
+
+67
+00:03:53,680 --> 00:03:57,439
+how user-friendly the UI is so we
+conducted some of the online phone
+
+68
+00:03:57,439 --> 00:04:01,040
+usability testing
+in google meet to let some user actually
+
+69
+00:04:01,040 --> 00:04:04,319
+experience the
+ui and give us some feedbacks and we
+
+70
+00:04:04,319 --> 00:04:07,519
+reported the whole
+interview and produced some conclusion
+
+71
+00:04:07,519 --> 00:04:10,879
+like the heat map that you can see here
+and that's how we completed and
+
+72
+00:04:10,879 --> 00:04:14,480
+concluded the research project. I would
+like to thank you Mr.Sushil Shrestha for
+
+73
+00:04:14,480 --> 00:04:18,079
+giving us this opportunity and the whole
+team for everything that they did thank
+
+74
+00:04:18,079 --> 00:04:21,280
+you stay safe bye
+
